@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mateusmats&theme=transparent&hide_border=false&include_all_commits=true&text_color=1E3A8A&title_color=1E3A8A&custom_title=Estatísticas" alt="Github Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmats&layout=compact&langs_count=7&theme=transparent&text_color=1E3A8A&title_color=1E3A8A"/>
 </div>
 
 ## Linguagens e Ferramentas
