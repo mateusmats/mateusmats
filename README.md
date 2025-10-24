@@ -23,10 +23,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusmgd&theme=blue_navy&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmgd&layout=compact&langs_count=8&theme=blue_navy&hide_border=true" />
-</p>
-
 ---
 
 ### Contato
